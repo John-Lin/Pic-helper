@@ -33,9 +33,9 @@ Current content
 Usage
 ---
 
-* For **Windows**
+* **For Windows**
 		
-	**Need to install [Python interpreter] (http://www.python.org/getit/).**
+	**Need to install [Python interpreter] (http://www.python.org/getit/)**
 
 	Then copy these 3 python scripts to the folder which you want to classify.
 	
@@ -51,7 +51,8 @@ Usage
 	
 	**This method does not require python intepreter.**
 		
-* For **OS X/Linux**
+
+* **For OS X/Linux**
 
 	Copy these 3 python scripts to the folder which you want to classify.
 	
@@ -61,6 +62,15 @@ Usage
 	
 	RAW files `$ python RAW_selector` and so on.
 
+
+Currently supports camera pictures
+----
+
+* All DSLR **Canon** & **Nikon**
+
+* **Nikon Coolpix**
+
+* **iPhone**
 
 Author
 ------
