@@ -37,11 +37,11 @@ Usage
 		
 	**Need to install [Python interpreter] (http://www.python.org/getit/)**
 
-	Then copy these 3 python scripts to the folder which you want to classify.
+	Copy these 3 python scripts to the folder which you want to classify.
 	
 	First run **Pic_classify.py** and all image will be classified.
 	
-	Switching to JPG or RAW folder to run **Pic_selector.py** or **RAW_selector.py** to choose favorite pictures.
+	Switching to \JPG or \RAW folder to run **Pic_selector.py** or **RAW_selector.py** to choose favorite pictures.
 	
 	**OR**
 	
@@ -63,10 +63,10 @@ Usage
 	RAW files `$ python RAW_selector` and so on.
 
 
-Currently supports camera pictures
+Currently supported camera photo
 ----
 
-* All DSLR **Canon** & **Nikon**
+* **Canon & Nikon DSLR**
 
 * **Nikon Coolpix**
 
