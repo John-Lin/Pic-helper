@@ -6,14 +6,14 @@ This repository is a collection of utility python scripts.
 Description
 ---
 
-It can assist to classify all image files to main four folder.
+It can assist to classify all file which produced by camera to the main four folder.
 
 * **JPG** folder store JPEG files.
 * **PNG** folder store PNG files.
 * **RAW** folder store CR2 or NEF files.
 * **MOV** folder store MOV, AVI files.
 
-And it also can assist to pick favorite pictures or RAW to the Favorite_Pic folder.
+And it also can assist to pick favorite photo or RAW to the Favorite_Pic folder.
 
 Current content
 ---
@@ -24,7 +24,7 @@ Current content
 
  * **Pic_selector.py**
 
-	Input image serial number to pick favorite pictures.
+	Input image serial number to pick favorite photo.
 
  * **RAW_selector.py**
 
@@ -39,9 +39,9 @@ Usage
 
 	Copy these three python scripts to the folder which you want to classify.
 	
-	First run **Pic_classify.py** and all image will be classified.
+	First run **Pic_classify.py** and all photo will be classified.
 	
-	Switching to \JPG or \RAW folder to run **Pic_selector.py** or **RAW_selector.py** to choose favorite pictures.
+	Switching to \JPG or \RAW folder to run **Pic_selector.py** or **RAW_selector.py** to choose favorite photo.
 	
 	**OR**
 	
@@ -56,9 +56,9 @@ Usage
 
 	Copy these three python scripts to the folder which you want to classify.
 	
-	Use terminal and switch to the folder then type `$ python Pic_classify.py` images will be classified.
+	Use terminal and switch to the folder then type `$ python Pic_classify.py` photo will be classified.
 	
-	If you want to pick favorite pictures just switch to /JPG folder then type `$ python Pic_selector.py`.
+	If you want to pick favorite photo just switch to /JPG folder then type `$ python Pic_selector.py`.
 	
 	RAW files `$ python RAW_selector` and so on.
 
