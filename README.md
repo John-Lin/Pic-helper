@@ -39,9 +39,9 @@ Usage
 
 	Copy these three python scripts to the folder which you want to classify.
 	
-	First run **Pic_classify.py** and all photo will be classified.
+	First run **Pic_classify.py** and all photo will be classified, and 
 	
-	Switching to \JPG or \RAW folder to run **Pic_selector.py** or **RAW_selector.py** to choose favorite photo.
+	switch to the \JPG or \RAW folder to run **Pic_selector.py** or **RAW_selector.py** to choose favorite photo.
 	
 	**OR**
 	
@@ -58,9 +58,9 @@ Usage
 	
 	Use terminal and switch to the folder then type `$ python Pic_classify.py` photo will be classified.
 	
-	If you want to pick favorite photo just switch to /JPG folder then type `$ python Pic_selector.py`.
+	If you want to pick favorite photo just switch to the /JPG folder then type `$ python Pic_selector.py`
 	
-	RAW files `$ python RAW_selector` and so on.
+	or even pick favorite RAW files switch to the /RAW folder then type `$ python RAW_selector`.
 
 
 Currently supported camera photo
