@@ -11,7 +11,7 @@ It can assist to classify all image files to main four folder.
 * **JPG** folder store JPEG files.
 * **PNG** folder store PNG files.
 * **RAW** folder store CR2 or NEF files.
-* **MOV** folder store video files.
+* **MOV** folder store MOV, AVI files.
 
 And it also can assist to pick favorite pictures or RAW to the Favorite_Pic folder.
 
@@ -20,7 +20,7 @@ Current content
 
  * **Pic_classify.py**
 
-	Classify all files to main four folder
+	Classify all files to main four folder.
 
  * **Pic_selector.py**
 
@@ -28,16 +28,16 @@ Current content
 
  * **RAW_selector.py**
 
-	Input RAW serial number to pick favorite RAW
+	Input RAW serial number to pick favorite RAW.
 
 Usage
 ---
 
-* **For Windows**
+* **For Windows User**
 		
 	**Need to install [Python interpreter] (http://www.python.org/getit/)**
 
-	Copy these 3 python scripts to the folder which you want to classify.
+	Copy these three python scripts to the folder which you want to classify.
 	
 	First run **Pic_classify.py** and all image will be classified.
 	
@@ -52,13 +52,13 @@ Usage
 	**This method does not require python intepreter.**
 		
 
-* **For OS X/Linux**
+* **For OS X/Linux User**
 
-	Copy these 3 python scripts to the folder which you want to classify.
+	Copy these three python scripts to the folder which you want to classify.
 	
-	Use terminal and switch to the folder then type `$ python Pic_classify.py` it will be classified.
+	Use terminal and switch to the folder then type `$ python Pic_classify.py` images will be classified.
 	
-	If you want to pick favorite pictures just switch to /JPG folder type `$ python Pic_selector.py`.
+	If you want to pick favorite pictures just switch to /JPG folder then type `$ python Pic_selector.py`.
 	
 	RAW files `$ python RAW_selector` and so on.
 
