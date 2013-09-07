@@ -13,7 +13,7 @@ It can assist to classify all file which produced by camera to the main four fol
 * **RAW** folder store CR2 or NEF files.
 * **MOV** folder store MOV, AVI files.
 
-And it also can assist to pick favorite photo or RAW to the Favorite_Pic folder.
+And it also can assist to pick out favorite photo or RAW to the Favorite_Pic folder.
 
 Current content
 ---
@@ -24,7 +24,7 @@ Current content
 
  * **Pic_selector.py**
 
-	Input image serial number to pick favorite photo.
+	Input image serial number to pick out favorite photo.
 
  * **RAW_selector.py**
 
